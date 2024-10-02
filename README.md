@@ -1,2 +1,2 @@
 # E-TechHub
-Responsive E-commerce Webpage using HTML and CSS
+Static E-commerce Webpage using HTML and CSS
